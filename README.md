@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @tanviguptaa27
-- 👀 I’m interested in coding ...
-- 🌱 I’m currently learning artificial intelligence and machine learning...
+- 👋 Hello, I'm Tanvi Gupta!!
+- 👀I'm currently learning Machine Learning and Deep learning 
+- 👀 I’m a Youtuber as well. 
+- 🌱 Fun Fact: I spend almost 10 hours listening to songs everyday. 
 
 
 <!---
